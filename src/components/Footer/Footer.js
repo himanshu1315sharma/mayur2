@@ -27,29 +27,29 @@ class Footer extends Component {
             <ul className="footer-menu">
               <li>
                 <a href="#pablo" onClick={(e) => e.preventDefault()}>
-                  Home
+                  Security
                 </a>
               </li>
               <li>
                 <a href="#pablo" onClick={(e) => e.preventDefault()}>
-                  Company
+                  Honesty
                 </a>
               </li>
               <li>
                 <a href="#pablo" onClick={(e) => e.preventDefault()}>
-                  Portfolio
+                  Love
                 </a>
               </li>
               <li>
                 <a href="#pablo" onClick={(e) => e.preventDefault()}>
-                  Blog
+                  Respect
                 </a>
               </li>
             </ul>
             <p className="copyright text-center">
               © {new Date().getFullYear()}{" "}
-              <a href="http://www.creative-tim.com">Creative Tim</a>, made with
-              love for a better web
+              <a href="https://mumbaipolice.gov.in/">Police Department</a>, made with
+              love for peoples rights
             </p>
           </nav>
         </Container>
